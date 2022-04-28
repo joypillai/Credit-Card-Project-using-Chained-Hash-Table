@@ -1,5 +1,5 @@
 #include<stdio.h>	
-#include"card.h"	
+#include"oldcard.h"	
 int main(int argc, char *argv[]){ 
 	
 	struct Card C;
